@@ -1390,13 +1390,13 @@ Prefab:
     - target: {fileID: 114704525176274286, guid: 2691fe0d7071da243a9bbb75b624ce9d,
         type: 2}
       propertyPath: forwardforce
-      value: 1750
+      value: 2250
       objectReference: {fileID: 0}
     - target: {fileID: 23245838990147288, guid: 2691fe0d7071da243a9bbb75b624ce9d,
         type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 6e289a4a05e988c40bfc1c964ef2c51c, type: 2}
+      objectReference: {fileID: 2100000, guid: 3898a777d7faaba43a29c74e67404356, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2691fe0d7071da243a9bbb75b624ce9d, type: 2}
   m_IsPrefabAsset: 0
